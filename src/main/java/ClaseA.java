@@ -3,4 +3,5 @@
  */
 public class ClaseA {
     // hola
+    //comentario desde FeatureA
 }
